@@ -1,0 +1,5 @@
+Credentials cache: API:C994D0AC-73CE-40DD-A185-60D965DF0838
+        Principal: ngasco@42URDULIZ.COM
+
+  Issued                Expires               Principal
+Apr 15 08:21:24 2021  Apr 15 18:21:24 2021  krbtgt/42URDULIZ.COM@42URDULIZ.COM
