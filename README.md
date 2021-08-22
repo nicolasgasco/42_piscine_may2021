@@ -1,9 +1,13 @@
 # My 'piscine' at 42 Urduliz
----
 
+
+---
 ## WARNING IF YOU'RE INTERESTED IN TAKING PART IN A PISCINE
-
 ---
+
+
+
+
 
 In May 2021 I took part in the very first 'piscine' organized at 42 Urduliz, in Bilbao.
 
